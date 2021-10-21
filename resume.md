@@ -35,7 +35,6 @@ Physics Honours Society, Univesity of the West Indies, Mona Campus, Department o
 First Place in BRIDGE in Sustainable Energy and ICT Gender Contest, BRIDGE and ICT
 `2014`
 Lime Scholarship for Telecommunication, Flow
-`2014`
 Grace Kennedy Bursary, Grace Kennedy
 
 ## Publications
