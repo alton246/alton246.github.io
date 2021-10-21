@@ -37,7 +37,6 @@ First Place in BRIDGE in Sustainable Energy and ICT Gender Contest, BRIDGE and I
 Lime Scholarship for Telecommunication, Flow
 `2014`
 Grace Kennedy Bursary, Grace Kennedy
-Name of Award, Organization 
 
 ## Publications
 
