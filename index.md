@@ -5,12 +5,16 @@ menutitle: Home
 menuorder: 1
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I am a young burgeoning scientist from the Caribbean region. I am passionate about climate change and the role that Renewables have to play in mitigating against climate impacts. My work focuses on providing solutions to the renewable energy in the Caribbean region. Most recently I have been working to implement a Solar Forecasting/Nowcasting Platform, WRF-Solar and MAD-WRF for the Caribbean region. This project has created a burning desire to further understand the role that clouds play in attenuating solar radiation.
 
 ## Current Interests and Projects:
 
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- DLorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
+- Sustainable Energy
+- Solar Forecasting/Nowcasting
+- Radiative Transfer and Remote Sensing
+- Improvement of Cloud Initialization in WRF
+- Data Assimilation
+- Numerical Modelling
+- Climate Variability
+- Wave Propagation
+- 3D Printed Automatic Weather Stations
