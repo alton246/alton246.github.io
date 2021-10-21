@@ -6,10 +6,11 @@ menutitle: Resume
 ## Currently
 
 Intern, Caribbean Institute for Meteorology and Hydrology, Husbands, St. James,
-Bridgetown Barbados. Duties include 3d printing and assembling automatic weather stations,
-compiling weekly reports on the PV production of PV systems installed across the island by The
-Ministry of Energy and Water Resources, implementation and monitoring of the WRF-Solar and
-MADWRF, and delivering training to instruments technicians across the Caribbean Region.
+Bridgetown Barbados. Duties include implementation and monitoring of the WRF-Solar and
+MADWRF, 3D printing and assembling automatic weather stations,compiling weekly reports 
+on the PV production of PV systems installed across the island by The Ministry of Energy 
+and Water Resources, and delivering training to instruments technicians across the 
+Caribbean Region.
 
 
 ## Education
