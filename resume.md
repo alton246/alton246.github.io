@@ -5,17 +5,23 @@ menutitle: Resume
 ---
 ## Currently
 
-Intern
+Intern, Caribbean Institute for Meteorology and Hydrology, Husbands, St. James,
+Bridgetown Barbados. Duties include 3d printing and assembling automatic weather stations,
+compiling weekly reports on the PV production of PV systems installed across the island by The
+Ministry of Energy and Water Resources, implementation and monitoring of the WRF-Solar and
+MADWRF, and delivering training to instruments technicians across the Caribbean Region.
+
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`2015 - 2020`
+University of the West Indies Mona Campus
+MPhil in Applied Physics (Alternative Energy)
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+
+`2011 - 2015`
+University of the West Indies Mona Campus
+BSc. (Hons). Energy and Environmental Physics 
 
 ## Awards
 
