@@ -53,27 +53,24 @@ Grace Kennedy Bursary, Grace Kennedy
 6. Climate Studies Group, Mona (CSGM), 2012: State of the Jamaican Climate 2012: Information for Resilience Building (Summary for Policymakers). Produced for the Planning Institute of Jamaica (PIOJ), Kingston, Jamaica. 47 pp. ISBN 978-976-8103-42-0.
 <!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-### Journals
+<!-- ### Journals -->
 
-`1994`
-Article Title, Journal Title
+`
 
-`1994`
-Article Title, Journal Title
-
-### Books
-
-`1994`
-Book Title, Journal Title
-
-`1994`
-Book Title, Journal Title
 
 
 ## Presentations
 
-`1994`
-Presentation Title, Conference, <a href="https://MyWebsite.tld/presentation1">Link to Presentation</a>
+`2017`
+Assessing the Wave Energy Potential of Jamaica, a Greater Antilles Island, through Dynamic Modelling, AGU, 
+
+`2018`
+ An in-depth investigation of Jamaica’s Wave Energy Resources using Buoy, Altimetric, Modeled Data, UWI Mona Faculty of Science
+and Technology Conference
+
+`2021`
+Realizing our Solar Photovoltaic Goals Across the Caribbean Region with some Assistance from MADWRF: Using Barbados as a Pilot, CARILEC Renewable Energy and Smart Grid Conference and Trade Show
+<a href="https://MyWebsite.tld/presentation1">Link to Presentation</a>
 
 
 ## Occupation
