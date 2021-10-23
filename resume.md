@@ -26,6 +26,8 @@ BSc. (Hons). Energy and Environmental Physics
 
 ## Awards
 
+`2016`
+Internship, Caricom Climate Change Centre, Caribbean Catastrophe Risk Insurance Facility
 
 `2015`
 University of the West Indies PostGraduate Scholarship, Univesity of the West Indies
