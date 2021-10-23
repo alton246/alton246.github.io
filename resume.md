@@ -26,17 +26,23 @@ BSc. (Hons). Energy and Environmental Physics
 
 ## Awards
 
-`2016` Internship, Caricom Climate Change Centre, Caribbean Catastrophe Risk Insurance Facility
+`2016` 
+Internship, Caricom Climate Change Centre, Caribbean Catastrophe Risk Insurance Facility
 
-`2015` University of the West Indies PostGraduate Scholarship, Univesity of the West Indies
+`2015` 
+University of the West Indies PostGraduate Scholarship, Univesity of the West Indies
 
-`2013-2015` Physics Honours Society, Univesity of the West Indies
+`2013-2015` 
+Physics Honours Society, Univesity of the West Indies
 
-`2015` First Place in BRIDGE in Sustainable Energy and ICT Gender Contest, BRIDGE and ICT
+`2015` 
+First Place in BRIDGE in Sustainable Energy and ICT Gender Contest, BRIDGE and ICT
 
-`2014` Lime Scholarship for Telecommunication, Flow
+`2014` 
+Lime Scholarship for Telecommunication, Flow
 
-`2014` Grace Kennedy Bursary, Grace Kennedy
+`2014` 
+Grace Kennedy Bursary, Grace Kennedy
 
 ## Publications
 1. Hall, K.; Daley, A.; Whitehall, S.; Sandiford, S.; Gentemann, C.L. Validating Salinity From SMAP With Saildrones and Research Vessel Data During EUREC4A-OA/ATOMIC. Preprints 2021, 2021080461 (doi: 10.20944/preprints202108.0461.v1).
@@ -80,14 +86,31 @@ Intern, Caribbean Institute for Meterology and Hydrology
 - 3d printing and assembling automatic weather stations
 - compiling weekly reports on the PV production of PV systems installed across the island by The Ministry of Energy and Water Resources
 
-`1994-1996`
-__Current Job Title__, Current Employer 
+`2020`
+Guest Scientist, NOAA Research Vessel Ronald H. Brown, ATOMIC campaign 
 
-- Task
-- Task
+- prepared, launched and analyzed data from radiosondes to aid with the development of an upper air profile of the Trade Wind Alley.
 
+`2018`
+Guest Scientist, National Centre for Atmospheric Research (NCAR)
 
+- developed the knowledge and skills necessary to implement WRF-Solar and Multi-sensor Advection Diffusion component of WRF (MADWRF) 
 
+`2017 - 2018`
+Adjunct Lecturer, The University of the West Indies, Mona
+
+- delivered the Energy Section of FOUN1201 Science Medicine and Technology in Society
+
+`2017 - 2018`
+Resident Advisor, Rex Nettleford Hall, The University of the West Indies, Mona
+
+-managed the sports and international student’s portfolio for the Halls of Residents
+
+`2015 - 2018`
+Part-time Research Assistant, Climate Studies Group Mona, The University of the West Indies, Mona 
+
+- analysis of oceanic wave data including (significant wave height, wave period, wind speed)
+- reviewed papers that contributed to the literature review
 <!-- ### Footer
 
 Last updated: May 2013 -->
