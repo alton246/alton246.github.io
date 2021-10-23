@@ -26,23 +26,12 @@ BSc. (Hons). Energy and Environmental Physics
 
 ## Awards
 
-`2016`
-Internship, Caricom Climate Change Centre, Caribbean Catastrophe Risk Insurance Facility
-
-`2015`
-University of the West Indies PostGraduate Scholarship, Univesity of the West Indies
-
-`2013-2015`
-Physics Honours Society, Univesity of the West Indies
-
-`2015`
-First Place in BRIDGE in Sustainable Energy and ICT Gender Contest, BRIDGE and ICT
-
-`2014`
-Lime Scholarship for Telecommunication, Flow
-
-`2014`
-Grace Kennedy Bursary, Grace Kennedy
+`2016` Internship, Caricom Climate Change Centre, Caribbean Catastrophe Risk Insurance Facility
+`2015` University of the West Indies PostGraduate Scholarship, Univesity of the West Indies
+`2013-2015` Physics Honours Society, Univesity of the West Indies
+`2015` First Place in BRIDGE in Sustainable Energy and ICT Gender Contest, BRIDGE and ICT
+`2014` Lime Scholarship for Telecommunication, Flow
+`2014` Grace Kennedy Bursary, Grace Kennedy
 
 ## Publications
 1. Hall, K.; Daley, A.; Whitehall, S.; Sandiford, S.; Gentemann, C.L. Validating Salinity From SMAP With Saildrones and Research Vessel Data During EUREC4A-OA/ATOMIC. Preprints 2021, 2021080461 (doi: 10.20944/preprints202108.0461.v1).
@@ -79,10 +68,12 @@ Presentation Title, Conference, <a href="https://MyWebsite.tld/presentation1">Li
 ## Occupation
 
 `Current`
-__Current Job Title__, Current Employer 
+Intern, Caribbean Institute for Meterology and Hydrology 
 
-- Task
-- Task
+- implementation and monitoring of the solar forecasting and nowcasting model WRF-Solar and MAD-WRF
+- delivering training to instruments technicians across the Caribbean Region
+- 3d printing and assembling automatic weather stations
+- compiling weekly reports on the PV production of PV systems installed across the island by The Ministry of Energy and Water Resources
 
 `1994-1996`
 __Current Job Title__, Current Employer 
