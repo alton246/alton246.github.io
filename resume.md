@@ -104,15 +104,14 @@ Adjunct Lecturer, The University of the West Indies, Mona
 `2017 - 2018`
 Resident Advisor, Rex Nettleford Hall, The University of the West Indies, Mona
 
--managed the sports and international student’s portfolio for the Halls of Residents
+- managed the sports and international student’s portfolio for the Halls of Residents
 
 `2015 - 2018`
 Part-time Research Assistant, Climate Studies Group Mona, The University of the West Indies, Mona 
 
 - analysis of oceanic wave data including (significant wave height, wave period, wind speed)
 - reviewed papers that contributed to the literature review
-<!-- ### Footer
 
-Last updated: May 2013 -->
+<!-- ### Footer Last updated: May 2013 -->
 
 
