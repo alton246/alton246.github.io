@@ -28,13 +28,14 @@ BSc. (Hons). Energy and Environmental Physics
 
 
 `2015`
-University of the West Indies PostGraduate Scholarship, Univesity of the West Indies, Mona Campus
+University of the West Indies PostGraduate Scholarship, Univesity of the West Indies
 `2013-2015`
 Physics Honours Society, Univesity of the West Indies, Mona Campus, Department of Physics
 `2015`
 First Place in BRIDGE in Sustainable Energy and ICT Gender Contest, BRIDGE and ICT
 `2014`
 Lime Scholarship for Telecommunication, Flow
+`2014`
 Grace Kennedy Bursary, Grace Kennedy
 
 ## Publications
