@@ -75,7 +75,7 @@ Realizing our Solar Photovoltaic Goals Across the Caribbean Region with some Ass
 
 ## Occupation
 
-`Current`
+`2018 - 2022`
 Intern, Caribbean Institute for Meterology and Hydrology 
 
 - implementation and monitoring of the solar forecasting and nowcasting model WRF-Solar and MAD-WRF
