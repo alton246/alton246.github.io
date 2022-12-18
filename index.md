@@ -5,16 +5,15 @@ menutitle: Home
 menuorder: 1
 ---
 
-I am a young burgeoning scientist from the Caribbean region. I am passionate about climate change and the role that Renewables have to play in mitigating against climate impacts. My work focuses on providing solutions to the renewable energy in the Caribbean region. Most recently I have been working to implement a Solar Forecasting/Nowcasting Platform, WRF-Solar and MAD-WRF for the Caribbean region. This project has created a burning desire to further understand the role that clouds play in attenuating solar radiation.
+I was born and raised in Portmore, Jamaica. I am passionate about climate change and the role that Renewables have to play in mitigating against climate impacts. I received my B.Sc and MPhil in Energy and Environmental Physics and Applied Physics from the University of the West Indies at Mona, Kingston Jamaica. After completing my studies I worked with Caribbean Institute for Meteorology and Hydrology, Bridgetown, Barbados, where I developed products and services for the renewable energy industry within the Caribbean Region. These products include  Solar Forecasting/Nowcasting Platforms, WRF-Solar and MAD-WRF. Currently, I am working on developing a better understanding of Tropical Cyclone induced Surface Waves.
 
 ## Current Interests and Projects:
 
+- Ocean Surface Waves
+- Tropical Cyclone Induced Surface Waves
 - Sustainable Energy
 - Solar Forecasting/Nowcasting
-- Radiative Transfer and Remote Sensing
-- Improvement of Cloud Initialization in WRF
 - Data Assimilation
 - Numerical Modelling
-- Climate Variability
 - Wave Propagation
-- 3D Printed Automatic Weather Stations
+
