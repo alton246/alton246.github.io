@@ -72,7 +72,12 @@ Realizing our Solar Photovoltaic Goals Across the Caribbean Region with some Ass
 
 ## Occupation
 `2022 - present`
+
 Graduate Research Assistant, University of Washington, Seattle
+
+
+- Analysis of in-situ and remote sensing tropical cyclone data
+- Simulation of tropical cyclones using coupled Atmospher-Wave-Ocean model UWIN-CM
 
 
 `2018 - 2022`
