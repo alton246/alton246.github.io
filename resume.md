@@ -5,12 +5,7 @@ menutitle: Resume
 ---
 ## Currently
 
-Intern, Caribbean Institute for Meteorology and Hydrology, Husbands, St. James,
-Bridgetown Barbados. Duties include implementation and monitoring of the WRF-Solar and
-MADWRF, 3D printing and assembling automatic weather stations,compiling weekly reports 
-on the PV production of PV systems installed across the island by The Ministry of Energy 
-and Water Resources, and delivering training to instruments technicians across the 
-Caribbean Region.
+Graduate Research Assistant, Department of Atmospheric Sciences, University of Washington, Seattle WA. Currently, I study hurricane induced surface waves using in-situ and remote sensing observations and Atmosphere-Wave-Ocean(AWO) coupled model, UWIN-CM.
 
 
 ## Education
@@ -25,6 +20,8 @@ University of the West Indies Mona Campus
 BSc. (Hons). Energy and Environmental Physics 
 
 ## Awards
+`2022`
+Fulbright Foreign Students Program, USA Embassy, Kingston Jamaica
 
 `2016` 
 Internship, Caricom Climate Change Centre, Caribbean Catastrophe Risk Insurance Facility
@@ -74,6 +71,9 @@ Realizing our Solar Photovoltaic Goals Across the Caribbean Region with some Ass
 
 
 ## Occupation
+`2022 - present`
+Graduate Research Assistant, University of Washington, Seattle
+
 
 `2018 - 2022`
 Intern, Caribbean Institute for Meterology and Hydrology 
