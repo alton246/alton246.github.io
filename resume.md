@@ -10,6 +10,10 @@ Graduate Research Assistant, Department of Atmospheric Sciences, University of W
 
 ## Education
 
+`2022 - present`
+University of Washington Seattle
+DPhil in Atmospheric Sciences
+
 `2015 - 2020`
 University of the West Indies Mona Campus
 MPhil in Applied Physics (Alternative Energy)
