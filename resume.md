@@ -11,7 +11,7 @@ Graduate Research Assistant, Department of Atmospheric Sciences, University of W
 ## Education
 
 `2022 - present`
-University of Washington Seattle
+University of Washington Seattle Campus
 DPhil in Atmospheric Sciences
 
 `2015 - 2020`
