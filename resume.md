@@ -3,7 +3,7 @@ layout: resume
 menuorder: 3
 menutitle: Resume
 ---
-## Currently
+## Current
 
 Graduate Research Assistant, Department of Atmospheric Sciences, University of Washington, Seattle WA. Currently, I study hurricane induced surface waves using in-situ and remote sensing observations and Atmosphere-Wave-Ocean(AWO) coupled model, UWIN-CM.
 
